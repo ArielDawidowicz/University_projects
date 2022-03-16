@@ -1,0 +1,8 @@
+Boyle X=36 Y=167
+Scully X=153 Y=180
+Amy X=241 Y=164
+Holt X=332 Y=93
+Jake X=439 Y=76
+Rosa X=529 Y=146
+Terry X=630 Y=101
+Hitchcock X=742 Y=166
